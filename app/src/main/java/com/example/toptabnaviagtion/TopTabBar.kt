@@ -143,7 +143,6 @@ fun TopTabBar(){
 //special notes:
 // if i have lot of tabs then i can use: ScrollableTabRow. this is as same as TabRow
 
-//i cant create companion object here
 
 data class TabItem(
     val title:String,
